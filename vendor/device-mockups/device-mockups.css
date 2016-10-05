@@ -702,7 +702,7 @@
 }
 .device-mockup.lumia920 > .device > .screen,
 .device-mockup.lumia920.portrait > .device > .screen {
-	top: 10.6420405%; bottom: 18.9973615%; left: 13.5258359%; right: 13.5258359%;
+	top: 20.6420405%; bottom: 18.9973615%; left: 13.5258359%; right: 13.5258359%;
 }
 
 .device-mockup.lumia920.landscape > .device > .screen {
